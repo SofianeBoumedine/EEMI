@@ -39,11 +39,20 @@ Préconisation : Le serveur est l'élément clef dans toutes les infrastructure 
 Hypothèse : Nous connaissons les caractéristiques clef d'un serveur :
 1. Les ports 
 2. Le maintien des services
-3. 
+3. Les performances
+
+Nous devons donc élaborer une documentation qui met en avant ces aspects la tout en les gardant accessible uniquement au utilisateurs autorisés.
+
+Ce travail peut paraitre facile mais il est essentiel de respecter des normes de nommage ISO et d'utiliser des système de droits d'accès a paramètre fin afin de garantir l'intégrité de l'information.
+
 #3.1 Le réseaux local 
+Définition :
 #3.2 Le réseaux externe
+Définition :
 #3.3 Le serveur
+
 #3.4 Les terminaux & API
+Définition
 #4.1 Facteurs clef 1
 #4.2 Facteurs clef 2
 #5.1 Problématique 1
