@@ -10,16 +10,16 @@ Dans le cadre de mes études a l'EEMI (License Chef de Projet Digital) j'ai l'oc
 1. Introduction
 2. Quesqu'un Serveur ?
 3. Les notions clef
-   1. Le réseaux local  
-   2. Le réseaux externe
-   3. Le serveur
-   4. Les terminaux & API
+      1. Le réseaux local  
+      2. Le réseaux externe
+      3. Le serveur
+      4. Les terminaux & API
 4. Les Facteurs clefs
-   1. Le réseaux local
-   2. Le serveur
+      1. Le réseaux local
+      2. Le serveur
 5. Les problématiques
-   1. Le réseaux externe
-   2. Les terminaux & API
+      1. Le réseaux externe
+      2. Les terminaux & API
 6. FAQ
 7. Outils recommandés
 8. Standard
@@ -46,18 +46,18 @@ Nous devons donc élaborer une documentation qui met en avant ces aspects la tou
 
 Ce travail peut paraitre facile mais il est essentiel de respecter des normes de nommage ISO et d'utiliser des système de droits d'accès a paramètre fin afin de garantir l'intégrité de l'information.
 
-# 3.1 Le réseaux local 
+## 3.1 Le réseaux local 
 Définition :
-# 3.2 Le réseaux externe
+## 3.2 Le réseaux externe
 Définition :
-# 3.3 Le serveur
+## 3.3 Le serveur
 
-# 3.4 Les terminaux & API
+## 3.4 Les terminaux & API
 Définition
-# 4.1 Facteurs clef 1
-# 4.2 Facteurs clef 2
-# 5.1 Problématique 1
-# 5.2 Problématique 2
+## 4.1 Facteurs clef 1
+## 4.2 Facteurs clef 2
+## 5.1 Problématique 1
+## 5.2 Problématique 2
 # 6 FAQ
 # 7 Outils recommandés
 # 8 Standard
